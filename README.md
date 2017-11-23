@@ -1,6 +1,6 @@
 ## README
 
-### Technical Report for Lane Keeping through PID Controller
+### Technical Report for Lane Keeping through Model Predictive Control(MPC)
 
 ---
 
